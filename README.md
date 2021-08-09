@@ -2,8 +2,13 @@
 
 ## Overview
 
-This analysis looks at different weather patterns around the global and offers insights to travelers who want to book a trip. There are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.
+This analysis looks at different weather patterns around the global. We use input statements to filter the data for the of the traveller weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
 
+## Resources
+Data source: WeatherPy_Database.csv, WeatherPy_vacation.csv
+Software: Python 3.9.4, Visual Studio Code, 1.58.1, conda 4.10.1
+API: OpenWeatherMap, Places, Geocoding, Maps Javascript, Directions
+ 
 ### Weather Database
 
 This folder uses Open Weather Map API to pull weather information on over 722 different cities around the world into a Dataframe which we convert and save as csv. The csv consists of the following data: 
