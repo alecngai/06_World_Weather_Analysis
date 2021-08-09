@@ -33,7 +33,7 @@ This folder takes the information gained in the weather database and uses Google
 
 ### Vacation Itinerary
 
-This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Ukiah, Carson City, Laguna, and Half Moon Bay.
+This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Broome, Ironton, Griffith, Saint Anthony and back to Broome.
 
 ![vacation_itinerary_map](https://github.com/alecngai/06_World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
